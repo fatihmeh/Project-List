@@ -2,7 +2,7 @@
 
 <br>
 
-Access my completed and ongoing projects
+Access my completed and ongoing projects about Solidworks so forth
 
 
 https://gitlab.com/users/testingusername/projects
