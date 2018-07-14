@@ -1,13 +1,11 @@
 # Project-List
 
-<br>
-
 Access my completed and ongoing projects about Solidworks so forth
-
 
 https://gitlab.com/users/testingusername/projects
 
-<br>
+
+### Table of Contents
 
 - [x] Solidworks Tips Tricks (Collection of uncommon knowledge about how things work)
   
