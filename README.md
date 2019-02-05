@@ -1,5 +1,4 @@
-# Project List
-### Fatih Mehmet Özcan
+### Projects by Fatih Mehmet Özcan
 
 
 Access my completed and ongoing projects about Solidworks and so forth
