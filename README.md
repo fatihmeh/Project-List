@@ -6,7 +6,6 @@ Access my completed and ongoing projects about Solidworks and so forth
 
 https://gitlab.com/users/testingusername/projects
 
-Which includes:
 
 * My Solidworks Certificates
 * Modelling Methods
