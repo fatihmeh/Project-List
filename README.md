@@ -21,3 +21,5 @@ https://gitlab.com/users/testingusername/projects
 * Import Excel Sheets to Access
 * Export Excel Sheets as CSV
 * Generate Json from Excel Files
+* Generate SW & Catia Part From Excel
+* Generate SW & Catia Part From HTML Web Page
