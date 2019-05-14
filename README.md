@@ -11,6 +11,7 @@ https://gitlab.com/users/testingusername/projects
 * Modelling Methods
 * Arbitrary Macros for CAD
 * Solidworks Tips & Tricks
+* Solidworks World 2019
 * Sample Project for Driveworks Xpress
 * Sample Project for In-Context Design
 * Blog List
