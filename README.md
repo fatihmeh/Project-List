@@ -27,4 +27,4 @@ https://gitlab.com/users/testingusername/projects
 * [Generate Json from Excel Files](https://gitlab.com/testingusername/generate-json-from-excel-files)
 * [Generate SolidWorks Part From Excel](https://gitlab.com/testingusername/generate-sw-catia-part-from-excel)
 * [Generate SolidWorks Part From HTML](https://gitlab.com/testingusername/generate-sw-catia-part-from-html-web-page)
-* [3D-Models](https://gitlab.com/testingusername/3d-models)
+* [3D Models](https://gitlab.com/testingusername/3d-models)
