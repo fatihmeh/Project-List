@@ -7,7 +7,7 @@ Access my completed and ongoing projects
 https://gitlab.com/users/testingusername/projects
 
 
-* [My Solidworks Certificates](https://gitlab.com/testingusername/My-Solidworks-Certificates)
+* [My Solidworks Certificates](https://gitlab.com/testingusername/My-Solidworks-Certificates){:target="_blank"}
 * [Modelling Methods](https://gitlab.com/testingusername/modelling-methods)
 * [Arbitrary Macros for CAD](https://gitlab.com/testingusername/Arbitrary-Macros-for-CAD)
 * [Solidworks Tips & Tricks](https://gitlab.com/testingusername/Solidworks-Tips-Tricks)
