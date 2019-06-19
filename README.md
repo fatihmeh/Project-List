@@ -7,7 +7,7 @@ Access my completed and ongoing projects
 <kbd>CTRL</kbd> + <kbd>click</kbd> or <kbd>Command ⌘</kbd>+<kbd>click</kbd> to open links in a new tab
 
 
-This list contains both Github and GitLab repositories.
+This list contains Github and GitLab repositories.
 
 
 * [My Solidworks Certificates](https://gitlab.com/testingusername/My-Solidworks-Certificates)
