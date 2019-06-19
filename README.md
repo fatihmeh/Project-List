@@ -15,7 +15,7 @@ This list contains both Github and GitLab repositories.
 * [Arbitrary Macros for CAD](https://gitlab.com/testingusername/Arbitrary-Macros-for-CAD)
 * [Solidworks Tips & Tricks](https://gitlab.com/testingusername/Solidworks-Tips-Tricks)
 * [Solidworks World 2019](https://gitlab.com/testingusername/solidworks-world-2019)
-* [Solidworks World 2019 (hosted on Github Pages](https://fatihmeh.github.io/Solidworks-World-2019/)
+* [Solidworks World 2019 (hosted on Github Pages)](https://fatihmeh.github.io/Solidworks-World-2019/)
 * [Sample Project for Driveworks Xpress](https://gitlab.com/testingusername/Sample-Project-Driveworks-Xpress)
 * [Sample Project for In-Context Design](https://gitlab.com/testingusername/Sample-Project-In-Context-Design)
 * [Blog List](https://gitlab.com/testingusername/Blog-List)
