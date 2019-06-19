@@ -32,7 +32,6 @@ This list contains both Github and GitLab repositories.
 * [Generate SolidWorks Part From HTML (hosted on Github Pages)](https://fatihmeh.github.io/Generate-SW-Part/)
 * [Personal Blog (hosted on Github Pages)](https://fatihmeh.github.io/)
 * [Choose Your Operation System (hosted on Github Pages)](https://fatihmeh.github.io/Choose-your-OS/)
-* [My Github Pages](https://gitlab.com/testingusername/my-github-pages)
 
 
 https://github.com/fatihmeh?tab=repositories
