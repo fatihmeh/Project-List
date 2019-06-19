@@ -26,7 +26,7 @@ This list contains Github and GitLab repositories.
 * [Export Excel Sheets as CSV](https://gitlab.com/testingusername/export-excel-sheets-as-csv)
 * [Import Excel Sheets to Access](https://gitlab.com/testingusername/import-excel-sheets-to-access)
 * [Generate Json from Excel Files](https://gitlab.com/testingusername/generate-json-from-excel-files)
-* [3D Models (GitLab)](https://gitlab.com/testingusername/3d-models)
+* [3D Models](https://gitlab.com/testingusername/3d-models)
 * [Generate SolidWorks Part From Excel](https://gitlab.com/testingusername/generate-sw-catia-part-from-excel)
 * [Generate SolidWorks Part From HTML](https://gitlab.com/testingusername/generate-sw-catia-part-from-html-web-page)
 * [Generate SolidWorks Part From HTML (hosted on Github Pages)](https://fatihmeh.github.io/Generate-SW-Part/)
