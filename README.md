@@ -1,4 +1,4 @@
-#### Projects by Fatih Mehmet Ozcan
+# Projects by Fatih Mehmet Ozcan
 
 
 Access my completed and ongoing projects
